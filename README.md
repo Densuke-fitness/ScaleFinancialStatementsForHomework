@@ -1,2 +1,1 @@
-# ScaleFinancialStatementsForHomework
-create Proportional scale financial statements 
+# Homework
